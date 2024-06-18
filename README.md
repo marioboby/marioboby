@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, my name is Mario
+#### Freshman at FCAI Cairo University.
+![Freshman at FCAI Cairo University.](https://media.licdn.com/dms/image/D4E16AQFS92jsEPm6Xw/profile-displaybackgroundimage-shrink_350_1400/0/1718714012356?e=1724284800&v=beta&t=MgHRU7dL_05Ij2b6x9BeftYBbIb0dPyMuSvTB0YYGwc)
 
-<!--
-**marioboby/marioboby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I really like learning new languages and implementing them with various projects. You'll find here some of my best projects i made (some with my colleagues) during my freshman year 
 
-Here are some ideas to get you started:
+Skills: C++ / Python / Jave / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Java and OOP using C++ 
+- 📫 How to reach me: Here's my email : sabermario160@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marioboby)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mario Saber/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioboby)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marioboby&show_icons=true)  
+
