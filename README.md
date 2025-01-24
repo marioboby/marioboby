@@ -5,7 +5,7 @@
 I really like learning new languages and implementing them with various projects. You'll find here some of my best projects i made (some with my colleagues) during my freshman year 
 
 ### Skills:
-C++ / Python / JavaScript / HTML / CSS
+C++ / Python / SQL
 
 - 🌱 I’m currently learning JavaScript and OOP using C++ 
 - 📫 How to reach me: Here's my email : sabermario160@gmail.com 
