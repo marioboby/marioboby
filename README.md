@@ -1,7 +1,7 @@
-# Hi there, I'm Mario Saber Shawqy! 👋
+# Hi there, I'm Mario ! 👋
 
 ### Junior ML Engineer & Backend Developer
-[cite_start]*Based in Cairo, Egypt* .
+*Based in Cairo, Egypt* .
 
 I am an aspiring Machine Learning and Backend Developer passionate about solving real-world problems using data-driven solutions and scalable backend systems. I am currently a student at Cairo University, pursuing a B.Sc. in Computer Science & Artificial Intelligence .
 
@@ -35,13 +35,13 @@ I am actively seeking internships in **Data Science, Machine Learning, or Backen
 ## 🔭 Experience & Education
 
 ### 🎓 Education
-**Cairo University** | [cite_start]B.Sc. in Computer Science & Artificial Intelligence [cite: 13, 14]
-*Oct 2023 - Jul 2027 (Expected)* | [cite_start]**GPA:** 3.68 [cite: 12, 15]
+**Cairo University** | [cite_start]B.Sc. in Computer Science & Artificial Intelligence .
+*Oct 2023 - Jul 2027 (Expected)* | 
 
 ### 💼 Professional Experience
-* **DEPI - AI & Data Science (Microsoft ML Engineer):** A 6-month scholarship certified by the Ministry of Communications and Information Technology. Focused on Python, Linear Algebra, Statistics, Azure, and AI fields. (June 2025 - Present) [cite_start][cite: 30]
-* **Minders Backend Committee (Member):** Developing and maintaining web applications using Django. (March 2025 - Present) [cite_start][cite: 30]
-* **Huawei Linux Training:** Completed comprehensive training on Linux fundamentals, shell scripting, and system administration. (July 2024 - Sept 2024) [cite_start][cite: 30]
+* **DEPI - AI & Data Science (Microsoft ML Engineer):** A 6-month scholarship certified by the Ministry of Communications and Information Technology. Focused on Python, Linear Algebra, Statistics, Azure, and AI fields. (June 2025 - Dec 2025) .
+* **Minders Backend Committee (Member):** Developing and maintaining web applications using Django. (March 2025 - Present) .
+* **Huawei Linux Training:** Completed comprehensive training on Linux fundamentals, shell scripting, and system administration. (July 2024 - Sept 2024).
 
 ---
 
@@ -51,30 +51,30 @@ I am actively seeking internships in **Data Science, Machine Learning, or Backen
 *A web application for viewing and saving recipes.*
 * **Role:** Lead Backend Developer & JavaScript contributor.
 * **Tech:** Django, HTML, CSS, JavaScript.
-* **Details:** Handled over 70% of the JS code and backend logic including views, models, and URL routing. [cite: 34]
+* **Details:** Handled over 70% of the JS code and backend logic including views, models, and URL routing. 
 
 ### 🖼️ Mini-Photoshop
 *An image processing tool for loading, saving, and applying filters.*
 * **Role:** C++ Developer.
 * **Tech:** C++, OOP, Custom Image Processing Library.
-* **Details:** Contributed to 40% of functions/filters. [cite_start]Recently refactored using SOLID principles and Design Patterns. [cite: 34, 36]
+* **Details:** Contributed to 40% of functions/filters. [cite_start]Recently refactored using SOLID principles and Design Patterns.
 
 ### 💻 Vole Machine Simulator
 *A simulation of machine language instructions and memory storage.*
 * **Role:** C++ Developer.
 * **Tech:** C++, OOP.
-* **Details:** Implemented memory, registers, and 80% of CPU classes to simulate machine architecture. [cite: 34]
+* **Details:** Implemented memory, registers, and 80% of CPU classes to simulate machine architecture. 
 
 ### ❌⭕ Mini-Many Tic-Tac-Toe
 *Multiple variations of the traditional Tic-Tac-Toe game.*
 * **Role:** C++ Developer.
 * **Tech:** C++, OOP.
-* **Details:** Implemented OOP paradigms and created 30% of the game classes. [cite: 34]
+* **Details:** Implemented OOP paradigms and created 30% of the game classes. 
 
 ---
 
 ## 📫 Connect with Me
 
-* [cite_start]📧 **Email:** mariosaber05@gmail.com [cite: 3]
-* 💼 **LinkedIn:** [Your LinkedIn URL]
-* [cite_start]📞 **Phone:** +20 155 570 9064 [cite: 7]
+* 📧 **Email:** mariosaber05@gmail.com 
+* 💼 **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/mariosaber/)]
+* 📞 **Phone:** +20 155 570 9064 
