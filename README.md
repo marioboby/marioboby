@@ -76,5 +76,5 @@ I am actively seeking internships in **Data Science, Machine Learning, or Backen
 ## 📫 Connect with Me
 
 * 📧 **Email:** mariosaber05@gmail.com 
-* 💼 **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/mariosaber/)]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mariosaber/
 * 📞 **Phone:** +20 155 570 9064 
