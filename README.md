@@ -35,7 +35,7 @@ I am actively seeking internships in **Data Science, Machine Learning, or Backen
 ## 🔭 Experience & Education
 
 ### 🎓 Education
-**Cairo University** | [cite_start]B.Sc. in Computer Science & Artificial Intelligence .
+**Cairo University** | B.Sc. in Computer Science & Artificial Intelligence .
 *Oct 2023 - Jul 2027 (Expected)* | 
 
 ### 💼 Professional Experience
